@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This will be a place for users to be able to create events, and attend events that other users have created. It is a project from TheOdinProject course. https://www.theodinproject.com/lessons/ruby-on-rails-private-events
